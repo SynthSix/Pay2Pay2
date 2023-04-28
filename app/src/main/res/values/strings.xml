@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pay2Pay</string>
+    <string name="name">Name:</string>
+    <string name="budget">Budget</string>
+    <string name="account">Account</string>
+    <string name="value">Value</string>
+    <string name="note">Note</string>
+    <string name="date">Date</string>
+    <string name="receipt">Receipt</string>
+    <string name="view">View</string>
+    <string name="update">Update</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
